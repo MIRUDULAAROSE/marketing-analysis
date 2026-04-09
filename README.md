@@ -58,5 +58,4 @@ The project follows a structured data pipeline:
 	•	Enhance dashboard with advanced KPIs
 	•	Include predictive analysis
   
-  -- POWER BI DASHBOARD IS UNDER DEVELOPMENT AND WILL BE ADDED SOON 
-  -- Stay tuned for updates
+  Soon I'll upload the Final Insights PowerPoint Presentation to present our Business Marketing Data Analysis to the Stakeholders  
