@@ -57,5 +57,5 @@ The project follows a structured data pipeline:
 	•	Add real-time data integration
 	•	Enhance dashboard with advanced KPIs
 	•	Include predictive analysis
-  
-  Soon I'll upload the Final Insights PowerPoint Presentation to present our Business Marketing Data Analysis to the Stakeholders  
+	
+   I have uploaded Final Insights PowerPoint Presentation to present our Business Marketing Data Analysis to    the Marketing Head and Sales Manager   
